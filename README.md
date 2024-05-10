@@ -2,6 +2,7 @@
 **DISOLVE CALCULATOR (Differential and Integral Calculator)**
      This calculator is created primarily to program the formulas of Differential and Integral Calculus. And aims to help
     students in their Calculus Journey.
+    
 **Introduction**
     As engineering students, we understand that Mathematics is an essential subject that we must study. During our first year in this Computer Engineering program, we took two Mathematics courses: Differential Calculus and Integral Calculus. Being one of the students who find these subjects difficult, we decided to create a calculator that can assist students in differentiation and integration.
   
